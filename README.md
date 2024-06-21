@@ -1,6 +1,8 @@
 # Servicenow
-
 ## Apps
+### Stores
+- [Store Apps](https://store.servicenow.com/sn_appstore_store.do#!/store/search?apptype=nonintegrations&orderby=rating) Some cost €, requires HI portal access
+- [Share](https://developer.servicenow.com/connect.do#!/share/contents?page=1)
 
 ### Global
 
@@ -21,9 +23,6 @@
 - [Inegration Menu Builder](https://share.servicenow.com/app.do#/detailV2/94af5e4c87ae11008bf84b0b0e434d3a/overview) - XML
 
 ### Scoped
-
-- [Store Apps](https://store.servicenow.com/sn_appstore_store.do#!/store/search?apptype=nonintegrations&orderby=rating) Some cost $
-- [Share Apps](https://share.servicenow.com/app.do#/category/custom_app?startRow=0&sort_parameter=-sys_created_on&filter=)
 - [MeetNow Global App](https://github.com/AFCJamie/MeetNow) - XML - Has Maps, Rooms, Clients, Interactions, but some parts don't work.
 - [HMAC Encoding (CryptoJS) Scoped App](https://github.com/cjnanda/snc-cryptojs) - GIT - Just a few Script includes.
 - [InterviewNow (Applicant Tracker) Scoped App](https://github.com/tdeniston/interviewnow) - GIT - Full fledged app
@@ -33,7 +32,6 @@
 - [InterviewNow](https://github.com/tdeniston/interviewnow) - GIT - Applicant Tracker, K17 hackathon competitor
 - [Loaner Request System](https://share.servicenow.com/app.do#/detailV2/ba2adff413d12a000de935528144b01a/overview) - XML
 - [Rest Reflector](http://www.cavucode.com/app-rest-reflector)
-<!--- [Platform Visualization](https://share.servicenow.com/app.do#/detailV2/e7ecd63213a4f200f609b6076144b098/details) Doesnt seem to work-->
 
 ## Community
 
